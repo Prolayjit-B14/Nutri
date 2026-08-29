@@ -1,0 +1,6 @@
+{
+  "name": "NutriFit - Nutrition & Diet Planner",
+  "description": "AI-Powered Nutrition and Diet Planning app featuring two-way forward and reverse macronutrient calculations, food database, daily diary tracker, goal estimations, and AI nutrition assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

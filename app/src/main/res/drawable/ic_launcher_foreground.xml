@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Macro Balance Ring Glow -->
+    <path
+        android:pathData="M54,28 A26,26 0 1,1 53.99,28"
+        android:strokeWidth="4"
+        android:strokeColor="#2000E676"
+        android:fillColor="#00000000" />
+    
+    <!-- Outer Nutrient Segments -->
+    <!-- Carbs arc (top-left) -->
+    <path
+        android:pathData="M28,54 A26,26 0 0,1 54,28"
+        android:strokeWidth="4"
+        android:strokeColor="#00E676"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+        
+    <!-- Protein arc (top-right) -->
+    <path
+        android:pathData="M54,28 A26,26 0 0,1 80,54"
+        android:strokeWidth="4"
+        android:strokeColor="#00B0FF"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+        
+    <!-- Fat arc (bottom-right) -->
+    <path
+        android:pathData="M80,54 A26,26 0 0,1 54,80"
+        android:strokeWidth="4"
+        android:strokeColor="#FFAB00"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+        
+    <!-- Calorie flame arc (bottom-left) -->
+    <path
+        android:pathData="M54,80 A26,26 0 0,1 28,54"
+        android:strokeWidth="4"
+        android:strokeColor="#FF5252"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Center Nutrition Emblem / Stylized Leaf & Energy Core -->
+    <!-- Center Leaf -->
+    <path
+        android:pathData="M54,37 C64,37 70,45 68,56 C66,66 54,72 54,72 C54,72 42,66 40,56 C38,45 44,37 54,37 Z"
+        android:fillColor="#FFFFFF" />
+        
+    <!-- Leaf Inner Spine & Flame -->
+    <path
+        android:pathData="M54,42 C57,48 57,55 54,65"
+        android:strokeWidth="2"
+        android:strokeColor="#00B0FF"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+        
+    <path
+        android:pathData="M50,52 C53,49 55,47 54,43"
+        android:strokeWidth="1.8"
+        android:strokeColor="#00E676"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+        
+    <path
+        android:pathData="M57,56 C60,54 62,51 60,47"
+        android:strokeWidth="1.8"
+        android:strokeColor="#FFAB00"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+</vector>
